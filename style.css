@@ -1,0 +1,17 @@
+.volunteer-btn {
+  display: inline-block;
+  padding: 14px 32px;
+  background: linear-gradient(135deg, #1C3F60, #1E7F43);
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 50px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+.volunteer-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.3);
+}
